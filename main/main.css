@@ -1,0 +1,84 @@
+.header{
+    margin-top: 50px;
+}
+
+.container{
+    width: 1200px;
+    margin-left: 50px;
+    list-style: none;
+}
+.madraxim{
+ display: flex;
+ justify-content: space-between;
+ font-size: 30px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    transition: all  0,7s;
+    
+}
+
+.list-item{
+    margin-left: 20px;
+    font-size: 20px;
+
+}
+.madraxim:hover{
+    color: blue ;
+    margin-left: 20px;
+    font-family: 'Dancing Script', cursive;
+   
+}
+.nav:hover {
+    margin-left: 20px;
+}
+
+.madraxim{
+    font-weight: 900;
+    font-family: 'Rubik Distressed', cursive;
+
+}
+.link{
+    color: #000;
+
+}
+
+
+.link:hover{
+    color: blue;
+}
+
+.human-a{
+    
+    display: flex;
+    justify-content: space-between;
+   
+}
+.human{
+    height: 20px;
+    margin-left: 10px;
+    display: flex;
+}
+.listlr{
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
